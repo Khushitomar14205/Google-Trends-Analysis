@@ -2,6 +2,14 @@
 
 Developed an interactive Streamlit dashboard that analyzes Google search trends using PyTrends, enabling keyword comparison, regional insights, related query analysis, and trend visualization.
 
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- PyTrends
+  
 ## Features
 
 - **Keyword Comparison:** Enter one or more keywords to compare their popularity on Google Search over the past 5 years.
