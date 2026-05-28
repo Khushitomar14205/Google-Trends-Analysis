@@ -126,5 +126,5 @@ if st.button("Analyze"):
 
     except Exception as e:
         st.error(
-            f"Error: {str(e)}"
+            "Google Trends temporarily blocked requests. Please try again in a few seconds."
         )
