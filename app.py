@@ -19,7 +19,7 @@ st.write(
 # User input
 keyword_input = st.text_input(
     "Enter keywords separated by commas",
-    "Python, Java, C++"
+    "Python, AI, Machine Learning"
 )
 
 if st.button("Analyze"):
